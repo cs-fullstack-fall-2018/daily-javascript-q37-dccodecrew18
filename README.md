@@ -30,6 +30,6 @@ A) Array [ "one", "five", "two" ]
 
 B) Array [ "one", "two", "three" ]
 
-C) Array [ "five", "two", "three" ]
+C) Array [ "five", "two", "three" ]  Answer is C, Pop takes off last one, shift knocks off the first , and unshift actually adds to front of array.
 
 D) Array [ "two", "three", "five" ]
